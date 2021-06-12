@@ -1,4 +1,5 @@
-import math
+# import math
+# comment import math
 import random
 
 for i in range(1,8):
